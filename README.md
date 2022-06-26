@@ -24,7 +24,6 @@ end the program.
 
 ## Program:
 ```
-/*
 Program to implement the multivariate linear regression model for sales prediction.
 Developed by:REVATHI D
 RegisterNumber:212221240045
